@@ -1,0 +1,9 @@
+mlflow==2.14.1
+numpy
+pandas
+pyyaml
+tqdm
+torch
+torchvision
+scikit-learn
+matplotlib

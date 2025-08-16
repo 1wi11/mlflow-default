@@ -1,0 +1,8 @@
+mlflow/
+__pycache__/
+mlruns/
+artifacts/
+data/
+*.pyc
+.DS_Store
+.vscode/
